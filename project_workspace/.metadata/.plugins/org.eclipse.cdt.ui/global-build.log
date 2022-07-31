@@ -1,0 +1,22 @@
+14:32:50 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\project.o" "..\\src\\project.c" 
+gcc -o project.exe "src\\project.o" 
+Info: Nothing to build for project
+14:33:28 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\project.o" "..\\src\\project.c" 
+gcc -o project.exe "src\\project.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file project.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:33:44 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -o project.exe "src\\project.o" 
+19:40:33 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\project.o" "..\\src\\project.c" 
+gcc -o project.exe "src\\project.o" 
+19:41:07 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\project.o" "..\\src\\project.c" 
+gcc -o project.exe "src\\project.o" 
